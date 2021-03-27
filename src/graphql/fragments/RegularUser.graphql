@@ -1,0 +1,5 @@
+fragment RegularUser on Person {
+  id
+  username
+  createdAt
+}
